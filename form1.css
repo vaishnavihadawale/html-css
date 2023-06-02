@@ -1,0 +1,77 @@
+.intro{
+    background-color: rgb(240, 233, 233);
+    padding-top: 20px;
+    height: 100%;
+    width: 100%;
+    
+}
+hr{
+    color: black;
+}
+.try{
+    
+    height: 60%;
+    width: 25%;
+    background-color:rgb(226, 222, 222);
+    margin:auto;
+    margin-top: 20px;
+    padding: 0px 10px 10px 15px;
+}
+button{
+    color: white;
+    background-color:  rgb(132, 132, 232);
+}
+.j{
+    text-align: center;
+}
+nav{
+    margin-top: 0px !important;
+    background-color:rgb(113, 113, 217) ;
+    padding: 10px;
+}
+body{
+    margin: 0px;
+}
+.blogsHeader{
+margin: 0px;
+color: black;
+}
+.v{
+    margin-top: 4px;
+    margin-bottom: 24px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100%;
+    border: none;
+}
+button{
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 24px;
+    border: none;
+}
+footer{
+    background-color: rgb(214, 210, 210);
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+.q{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    
+
+}
+.spacemargin{
+    margin-right: 40px;
+}

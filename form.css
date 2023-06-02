@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    color: white;
+
+}
+
+form {
+    background-color: rgb(34, 34, 237);
+}
+
+div {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+
+}
+
+.intro {
+    background-color: rgb(106, 106, 139);
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.try {
+    text-align: center;
+    background-color: rgb(138, 138, 141);
+    margin-right: 450px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+
+}
+
+.v {
+    margin-bottom: 20px;
+    padding: 5px 55px 5px 5px;
+}
+
+.r{
+    padding: 5px 55px 5px 5px;
+    margin-bottom: 20px;
+}
+button{
+    color: white;
+    background-color: aqua;
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top:5px;
+    padding-bottom: 5px;
+
+}
