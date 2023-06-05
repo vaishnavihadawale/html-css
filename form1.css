@@ -20,6 +20,7 @@ hr{
 button{
     color: white;
     background-color:  rgb(132, 132, 232);
+    margin-right: 5px;
 }
 .j{
     text-align: center;
@@ -34,7 +35,7 @@ body{
 }
 .blogsHeader{
 margin: 0px;
-color: black;
+color:white;
 }
 .v{
     margin-top: 4px;
@@ -61,17 +62,15 @@ footer{
     width: 100%;
     position: fixed;
 }
-.q{
-    display: flex;
-    justify-content: space-between;
-}
 a{
     color: black;
     font-size: 20px;
     text-decoration: none;
+    padding-right: 10px;
     
 
 }
-.spacemargin{
-    margin-right: 40px;
+.q{
+    display: flex;
+    justify-content: space-between;
 }
