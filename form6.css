@@ -1,0 +1,76 @@
+.spacemargin{
+
+    padding-right: 10px;
+       color:white;
+   
+   }
+   .q{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    height: 30px;
+    padding: 3px;
+    
+}
+.blogsHeader{
+    margin: 0px;
+    color: white;
+    padding: 3px;
+    }
+    body{
+        background-color: rgb(126, 119, 119);
+        margin: 0px;
+    }
+    input{
+        background-color: rgb(126, 119, 119);
+        width: 100%;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid #ccc;
+        
+        /*margin-bottom: 10px;*/
+}
+.sd{
+    background-color: rgb(126, 119, 119);
+    width: 50%;
+    margin: auto;
+    
+    
+}
+.er{
+    background-color: aliceblue;
+    padding-left: 7px;
+    padding-right: 7px;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 10px;
+    
+}
+.fg{
+    background-color: aliceblue;
+    padding-left: 7px;
+    padding-right: 7px;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 10px;
+    
+    
+   }
+    
+   footer{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(71, 74, 220);
+    text-align: center;
+    color:none;
+}
+.only{
+    margin: 0px;
+}
+ ::placeholder{
+    color: black;
+ }   
+
+
+   
